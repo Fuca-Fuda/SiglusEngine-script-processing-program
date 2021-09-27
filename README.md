@@ -1,4 +1,4 @@
-# Script-processing-program
+# SiglusEngine-script-processing-program
 在对SiglusEngine的脚本处理过程中，遇到了许多需要使用文本处理程序进行编辑的情况，例如需要将角色名称与对话放在一行，以及过滤掉脚本中的程序指令行等等，目前已经完成了一个只针对SiglusEngine的较为完善的脚本处理程序，之后可以基于本程序对诸多引擎的脚本进行处理。
 
 本程序只有一个main.cpp有意义，其中一共有四个功能函数，三个方便执行的调用函数，分别实现的功能如下：
